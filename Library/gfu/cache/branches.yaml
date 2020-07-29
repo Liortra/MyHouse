@@ -13,12 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-07-29T10:36:42.009+03:00
+  lastUpdatedAtString: 2020-07-29T11:38:44.764+03:00
   initializedAtString: 2020-07-29T10:34:35.574+03:00
   localBranches:
   - name: master
     tracking: origin/master
-  remoteBranches: []
+  remoteBranches:
+  - name: origin/master
+    tracking: '[None]'
   remotes:
   - name: origin
     url: https://github.com/Liortra/MyHouse
@@ -37,9 +39,18 @@ MonoBehaviour:
         url: https://github.com/Liortra/MyHouse
       trackingBranch: master
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - master
+    subKeyValues:
+    - Values:
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/Liortra/MyHouse
+        trackingBranch: 
   configRemotes:
     keys:
     - origin
