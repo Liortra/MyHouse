@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{1381BC6D-E5A2-6358-6CBC-71FB553081DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{00D5B58A-4AF8-FEAD-79BF-824195AB5DFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{1381BC6D-E5A2-6358-6CBC-71FB553081DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1381BC6D-E5A2-6358-6CBC-71FB553081DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1381BC6D-E5A2-6358-6CBC-71FB553081DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00D5B58A-4AF8-FEAD-79BF-824195AB5DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D5B58A-4AF8-FEAD-79BF-824195AB5DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D5B58A-4AF8-FEAD-79BF-824195AB5DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D5B58A-4AF8-FEAD-79BF-824195AB5DFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

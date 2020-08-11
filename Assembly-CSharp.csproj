@@ -63,7 +63,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Customizable_Furnture\Source\Scripts\CleanUpAll.cs" />
+    <Compile Include="Assets\Customizable_Furnture\Source\Scripts\Clock\AnalogicClock.cs" />
+    <Compile Include="Assets\Customizable_Furnture\Source\Scripts\Clock\ClockTimer.cs" />
+    <Compile Include="Assets\Customizable_Furnture\Source\Scripts\Clock\DigitalClock.cs" />
+    <Compile Include="Assets\Customizable_Furnture\Source\Scripts\Clock\DigitalClockValue.cs" />
+    <Compile Include="Assets\Customizable_Furnture\Source\Scripts\DisplayFrame.cs" />
+    <Compile Include="Assets\Customizable_Furnture\Source\Scripts\DisplaySelectedObject.cs" />
+    <Compile Include="Assets\Customizable_Furnture\Source\Scripts\OptionsDisplay.cs" />
+    <Compile Include="Assets\Customizable_Furnture\Source\Scripts\OptionsDisplaySaveVar.cs" />
+    <Compile Include="Assets\Customizable_Furnture\Source\Scripts\PlayVideo.cs" />
+    <Compile Include="Assets\Customizable_Furnture\Source\Scripts\SimpleSwitchMaterial.cs" />
     <Compile Include="Assets\Scripts\CameraMotion.cs" />
+    <None Include="Assets\Customizable_Furnture\Readme\Readme.txt" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
