@@ -75,6 +75,8 @@
     <Compile Include="Assets\Customizable_Furnture\Source\Scripts\PlayVideo.cs" />
     <Compile Include="Assets\Customizable_Furnture\Source\Scripts\SimpleSwitchMaterial.cs" />
     <Compile Include="Assets\Scripts\CameraMotion.cs" />
+    <Compile Include="Assets\Scripts\DoorAutomation.cs" />
+    <Compile Include="Assets\Scripts\MotionDoor.cs" />
     <None Include="Assets\Customizable_Furnture\Readme\Readme.txt" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
