@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-08-13T19:56:44.399+03:00
-  initializedAtString: 2020-08-13T17:53:24.771+03:00
+  lastUpdatedAtString: 2020-08-16T21:55:01.643+03:00
+  initializedAtString: 2020-08-16T21:47:11.545+03:00
   entries:
   - path: .vs\MyHouse\v16\.suo
     fullPath: D:\UnityProjects\MyHouse\.vs\MyHouse\v16\.suo
@@ -28,159 +28,75 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Animation\closeDoor.anim
-    fullPath: D:\UnityProjects\MyHouse\Assets\Animation\closeDoor.anim
-    projectPath: Assets\Animation\closeDoor.anim
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Animation\closeDoor.anim.meta
-    fullPath: D:\UnityProjects\MyHouse\Assets\Animation\closeDoor.anim.meta
-    projectPath: Assets\Animation\closeDoor.anim.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Assets\Animation\Door.controller
     fullPath: D:\UnityProjects\MyHouse\Assets\Animation\Door.controller
     projectPath: Assets\Animation\Door.controller
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Animation\Door.controller.meta
-    fullPath: D:\UnityProjects\MyHouse\Assets\Animation\Door.controller.meta
-    projectPath: Assets\Animation\Door.controller.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Animation\DoorClose.anim
-    fullPath: D:\UnityProjects\MyHouse\Assets\Animation\DoorClose.anim
-    projectPath: Assets\Animation\DoorClose.anim
+  - path: Assets\Animation\SlideClose.anim
+    fullPath: D:\UnityProjects\MyHouse\Assets\Animation\SlideClose.anim
+    projectPath: Assets\Animation\SlideClose.anim
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Animation\DoorClose.anim.meta
-    fullPath: D:\UnityProjects\MyHouse\Assets\Animation\DoorClose.anim.meta
-    projectPath: Assets\Animation\DoorClose.anim.meta
+  - path: Assets\Animation\SlideClose.anim.meta
+    fullPath: D:\UnityProjects\MyHouse\Assets\Animation\SlideClose.anim.meta
+    projectPath: Assets\Animation\SlideClose.anim.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Animation\DoorIdle.anim
-    fullPath: D:\UnityProjects\MyHouse\Assets\Animation\DoorIdle.anim
-    projectPath: Assets\Animation\DoorIdle.anim
+  - path: Assets\Animation\SlideDoor.controller
+    fullPath: D:\UnityProjects\MyHouse\Assets\Animation\SlideDoor.controller
+    projectPath: Assets\Animation\SlideDoor.controller
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Animation\DoorIdle.anim.meta
-    fullPath: D:\UnityProjects\MyHouse\Assets\Animation\DoorIdle.anim.meta
-    projectPath: Assets\Animation\DoorIdle.anim.meta
+  - path: Assets\Animation\SlideDoor.controller.meta
+    fullPath: D:\UnityProjects\MyHouse\Assets\Animation\SlideDoor.controller.meta
+    projectPath: Assets\Animation\SlideDoor.controller.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Animation\DoorOpen.anim
-    fullPath: D:\UnityProjects\MyHouse\Assets\Animation\DoorOpen.anim
-    projectPath: Assets\Animation\DoorOpen.anim
+  - path: Assets\Animation\SlideOpen.anim
+    fullPath: D:\UnityProjects\MyHouse\Assets\Animation\SlideOpen.anim
+    projectPath: Assets\Animation\SlideOpen.anim
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Animation\DoorOpen.anim.meta
-    fullPath: D:\UnityProjects\MyHouse\Assets\Animation\DoorOpen.anim.meta
-    projectPath: Assets\Animation\DoorOpen.anim.meta
+  - path: Assets\Animation\SlideOpen.anim.meta
+    fullPath: D:\UnityProjects\MyHouse\Assets\Animation\SlideOpen.anim.meta
+    projectPath: Assets\Animation\SlideOpen.anim.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Animation\openDoor.anim
-    fullPath: D:\UnityProjects\MyHouse\Assets\Animation\openDoor.anim
-    projectPath: Assets\Animation\openDoor.anim
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Animation\openDoor.anim.meta
-    fullPath: D:\UnityProjects\MyHouse\Assets\Animation\openDoor.anim.meta
-    projectPath: Assets\Animation\openDoor.anim.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Assets\home.unity
     fullPath: D:\UnityProjects\MyHouse\Assets\home.unity
     projectPath: Assets\home.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Materials\Door.mat
-    fullPath: D:\UnityProjects\MyHouse\Assets\Materials\Door.mat
-    projectPath: Assets\Materials\Door.mat
+  - path: Assets\Scripts\DoorMotion.cs
+    fullPath: D:\UnityProjects\MyHouse\Assets\Scripts\DoorMotion.cs
+    projectPath: Assets\Scripts\DoorMotion.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Door.mat.meta
-    fullPath: D:\UnityProjects\MyHouse\Assets\Materials\Door.mat.meta
-    projectPath: Assets\Materials\Door.mat.meta
+  - path: Assets\Scripts\DoorMotion.cs.meta
+    fullPath: D:\UnityProjects\MyHouse\Assets\Scripts\DoorMotion.cs.meta
+    projectPath: Assets\Scripts\DoorMotion.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Glass.mat
-    fullPath: D:\UnityProjects\MyHouse\Assets\Materials\Glass.mat
-    projectPath: Assets\Materials\Glass.mat
+  - path: Assets\Scripts\SlideMotion.cs
+    fullPath: D:\UnityProjects\MyHouse\Assets\Scripts\SlideMotion.cs
+    projectPath: Assets\Scripts\SlideMotion.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Glass.mat.meta
-    fullPath: D:\UnityProjects\MyHouse\Assets\Materials\Glass.mat.meta
-    projectPath: Assets\Materials\Glass.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Materials.meta
-    fullPath: D:\UnityProjects\MyHouse\Assets\Materials\Materials.meta
-    projectPath: Assets\Materials\Materials.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Materials\Door.mat
-    fullPath: D:\UnityProjects\MyHouse\Assets\Materials\Materials\Door.mat
-    projectPath: Assets\Materials\Materials\Door.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Materials\Door.mat.meta
-    fullPath: D:\UnityProjects\MyHouse\Assets\Materials\Materials\Door.mat.meta
-    projectPath: Assets\Materials\Materials\Door.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\DoorAutomation.cs
-    fullPath: D:\UnityProjects\MyHouse\Assets\Scripts\DoorAutomation.cs
-    projectPath: Assets\Scripts\DoorAutomation.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\DoorAutomation.cs.meta
-    fullPath: D:\UnityProjects\MyHouse\Assets\Scripts\DoorAutomation.cs.meta
-    projectPath: Assets\Scripts\DoorAutomation.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\MotionDoor.cs
-    fullPath: D:\UnityProjects\MyHouse\Assets\Scripts\MotionDoor.cs
-    projectPath: Assets\Scripts\MotionDoor.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\MotionDoor.cs.meta
-    fullPath: D:\UnityProjects\MyHouse\Assets\Scripts\MotionDoor.cs.meta
-    projectPath: Assets\Scripts\MotionDoor.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Textures\Door.PNG
-    fullPath: D:\UnityProjects\MyHouse\Assets\Textures\Door.PNG
-    projectPath: Assets\Textures\Door.PNG
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Textures\Door.PNG.meta
-    fullPath: D:\UnityProjects\MyHouse\Assets\Textures\Door.PNG.meta
-    projectPath: Assets\Textures\Door.PNG.meta
+  - path: Assets\Scripts\SlideMotion.cs.meta
+    fullPath: D:\UnityProjects\MyHouse\Assets\Scripts\SlideMotion.cs.meta
+    projectPath: Assets\Scripts\SlideMotion.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -194,89 +110,17 @@ MonoBehaviour:
     fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\00\004bacd9006a64237ca70d48f8eb39ca
     projectPath: Library\Artifacts\00\004bacd9006a64237ca70d48f8eb39ca
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\00\005b302ce426ef1aac9c7de927ea7c54
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\00\005b302ce426ef1aac9c7de927ea7c54
-    projectPath: Library\Artifacts\00\005b302ce426ef1aac9c7de927ea7c54
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\04\04d28fd99f536ac0499fb00afc887c5a
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\04\04d28fd99f536ac0499fb00afc887c5a
-    projectPath: Library\Artifacts\04\04d28fd99f536ac0499fb00afc887c5a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\Artifacts\07\07907056c675e87bf52a43c41904a908
     fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\07\07907056c675e87bf52a43c41904a908
     projectPath: Library\Artifacts\07\07907056c675e87bf52a43c41904a908
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\0d\0de1715f3028759cc6279ad16acc2db6
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\0d\0de1715f3028759cc6279ad16acc2db6
-    projectPath: Library\Artifacts\0d\0de1715f3028759cc6279ad16acc2db6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\12\1215aa197608150eb45425e81242587e
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\12\1215aa197608150eb45425e81242587e
-    projectPath: Library\Artifacts\12\1215aa197608150eb45425e81242587e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\12\12ab0064accf6d043d7d0958263839f0
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\12\12ab0064accf6d043d7d0958263839f0
-    projectPath: Library\Artifacts\12\12ab0064accf6d043d7d0958263839f0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\17\1741670b58b87ac491764d936228ab94
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\17\1741670b58b87ac491764d936228ab94
-    projectPath: Library\Artifacts\17\1741670b58b87ac491764d936228ab94
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1f\1f24f426300692d2cfe979db6b0612c5
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\1f\1f24f426300692d2cfe979db6b0612c5
-    projectPath: Library\Artifacts\1f\1f24f426300692d2cfe979db6b0612c5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\26\26b25a8d8b4b188c28ecc175054edc0e
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\26\26b25a8d8b4b188c28ecc175054edc0e
-    projectPath: Library\Artifacts\26\26b25a8d8b4b188c28ecc175054edc0e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\2b\2b7e8b9ccc2f001ff35e5a56db6523e3
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\2b\2b7e8b9ccc2f001ff35e5a56db6523e3
-    projectPath: Library\Artifacts\2b\2b7e8b9ccc2f001ff35e5a56db6523e3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\2c\2cf3715a8d78184aa5a6d09dc5981a2a
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\2c\2cf3715a8d78184aa5a6d09dc5981a2a
-    projectPath: Library\Artifacts\2c\2cf3715a8d78184aa5a6d09dc5981a2a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\2e\2e2b665ff6f93536ee617701dcbc3427
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\2e\2e2b665ff6f93536ee617701dcbc3427
-    projectPath: Library\Artifacts\2e\2e2b665ff6f93536ee617701dcbc3427
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\2e\2ecb774f4f066de8604157fe3c85f03e
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\2e\2ecb774f4f066de8604157fe3c85f03e
-    projectPath: Library\Artifacts\2e\2ecb774f4f066de8604157fe3c85f03e
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\31\31797a4497e81f414d1c8700cf03440d
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\31\31797a4497e81f414d1c8700cf03440d
-    projectPath: Library\Artifacts\31\31797a4497e81f414d1c8700cf03440d
+  - path: Library\Artifacts\18\1819882194f6a58f5d4d105b5c5a1ccc
+    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\18\1819882194f6a58f5d4d105b5c5a1ccc
+    projectPath: Library\Artifacts\18\1819882194f6a58f5d4d105b5c5a1ccc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -284,131 +128,41 @@ MonoBehaviour:
     fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\32\32e080dd8ef2824ef08c06a330125964
     projectPath: Library\Artifacts\32\32e080dd8ef2824ef08c06a330125964
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\64\64014ef5afca903cae4a0f81e6426c2b
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\64\64014ef5afca903cae4a0f81e6426c2b
-    projectPath: Library\Artifacts\64\64014ef5afca903cae4a0f81e6426c2b
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\6a\6a749730044ea2653dd4c5db4b1210a1
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\6a\6a749730044ea2653dd4c5db4b1210a1
-    projectPath: Library\Artifacts\6a\6a749730044ea2653dd4c5db4b1210a1
+  - path: Library\Artifacts\55\5561b48be5a099de2d47ed861f561eef
+    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\55\5561b48be5a099de2d47ed861f561eef
+    projectPath: Library\Artifacts\55\5561b48be5a099de2d47ed861f561eef
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\6e\6ed977d832f31b63713b30088355f544
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\6e\6ed977d832f31b63713b30088355f544
-    projectPath: Library\Artifacts\6e\6ed977d832f31b63713b30088355f544
+  - path: Library\Artifacts\5a\5a05adfa67fdcc64b890e9ef971eaca3
+    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\5a\5a05adfa67fdcc64b890e9ef971eaca3
+    projectPath: Library\Artifacts\5a\5a05adfa67fdcc64b890e9ef971eaca3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\77\770a35dab426e9dbbde6170ee5c1040d
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\77\770a35dab426e9dbbde6170ee5c1040d
-    projectPath: Library\Artifacts\77\770a35dab426e9dbbde6170ee5c1040d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\77\778c624f98a46d340c7e46b892659341
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\77\778c624f98a46d340c7e46b892659341
-    projectPath: Library\Artifacts\77\778c624f98a46d340c7e46b892659341
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\7a\7ae85604aaf73fbf13cbb51b69b71194
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\7a\7ae85604aaf73fbf13cbb51b69b71194
-    projectPath: Library\Artifacts\7a\7ae85604aaf73fbf13cbb51b69b71194
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\7d\7d44be7fc1e4b42fb38cb00224d0d96b
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\7d\7d44be7fc1e4b42fb38cb00224d0d96b
-    projectPath: Library\Artifacts\7d\7d44be7fc1e4b42fb38cb00224d0d96b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library\Artifacts\83\839d463e9c888adaf0000f8272571a3e
     fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\83\839d463e9c888adaf0000f8272571a3e
     projectPath: Library\Artifacts\83\839d463e9c888adaf0000f8272571a3e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\87\878e451d33b9261a3957f545423dbe06
     fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\87\878e451d33b9261a3957f545423dbe06
     projectPath: Library\Artifacts\87\878e451d33b9261a3957f545423dbe06
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\98\9863ee98846db85571331d4fd2763cd3
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\98\9863ee98846db85571331d4fd2763cd3
-    projectPath: Library\Artifacts\98\9863ee98846db85571331d4fd2763cd3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a4\a4b57e5a58c282ea52c5c8315944a17f
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\a4\a4b57e5a58c282ea52c5c8315944a17f
-    projectPath: Library\Artifacts\a4\a4b57e5a58c282ea52c5c8315944a17f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\af\afb7b330f7938cab208a00a2f30a60c2
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\af\afb7b330f7938cab208a00a2f30a60c2
-    projectPath: Library\Artifacts\af\afb7b330f7938cab208a00a2f30a60c2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b3\b345835caac357fdb0eeb1601db0d0c2
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\b3\b345835caac357fdb0eeb1601db0d0c2
-    projectPath: Library\Artifacts\b3\b345835caac357fdb0eeb1601db0d0c2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\b3\b345f59cddbca26caa288fb057d8acbd
     fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\b3\b345f59cddbca26caa288fb057d8acbd
     projectPath: Library\Artifacts\b3\b345f59cddbca26caa288fb057d8acbd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b6\b620b66a9d22099d0dd6b815298e0ea8
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\b6\b620b66a9d22099d0dd6b815298e0ea8
-    projectPath: Library\Artifacts\b6\b620b66a9d22099d0dd6b815298e0ea8
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\be\bed86ac7d34427728c33b503b6721ce6
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\be\bed86ac7d34427728c33b503b6721ce6
-    projectPath: Library\Artifacts\be\bed86ac7d34427728c33b503b6721ce6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c1\c166d629433c575e9d52e1b5dc1fb4c4
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\c1\c166d629433c575e9d52e1b5dc1fb4c4
-    projectPath: Library\Artifacts\c1\c166d629433c575e9d52e1b5dc1fb4c4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c9\c91417f44c0d1119afe61e9ea842552c
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\c9\c91417f44c0d1119afe61e9ea842552c
-    projectPath: Library\Artifacts\c9\c91417f44c0d1119afe61e9ea842552c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ce\cefacf6b61f9c7eaecfa7fd48f47a16f
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\ce\cefacf6b61f9c7eaecfa7fd48f47a16f
-    projectPath: Library\Artifacts\ce\cefacf6b61f9c7eaecfa7fd48f47a16f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\cf\cf34a7efdae7cd6cc0a5cbd7f6e65225
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\cf\cf34a7efdae7cd6cc0a5cbd7f6e65225
-    projectPath: Library\Artifacts\cf\cf34a7efdae7cd6cc0a5cbd7f6e65225
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\cf\cf64b293fd0050c7317b62fa16ee1604
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\cf\cf64b293fd0050c7317b62fa16ee1604
-    projectPath: Library\Artifacts\cf\cf64b293fd0050c7317b62fa16ee1604
+  - path: Library\Artifacts\d2\d2bc7b6cfb87bd229d0c7805f84578f3
+    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\d2\d2bc7b6cfb87bd229d0c7805f84578f3
+    projectPath: Library\Artifacts\d2\d2bc7b6cfb87bd229d0c7805f84578f3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -416,38 +170,14 @@ MonoBehaviour:
     fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\d4\d4b4a4e082b99849581d7673360f7b36
     projectPath: Library\Artifacts\d4\d4b4a4e082b99849581d7673360f7b36
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\fc\fc1b86f0965d57897d3d5282b46c26d8
+    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\fc\fc1b86f0965d57897d3d5282b46c26d8
+    projectPath: Library\Artifacts\fc\fc1b86f0965d57897d3d5282b46c26d8
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\d5\d59adc3bd50a2b6a0e7fcf5507f8f741
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\d5\d59adc3bd50a2b6a0e7fcf5507f8f741
-    projectPath: Library\Artifacts\d5\d59adc3bd50a2b6a0e7fcf5507f8f741
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e3\e3a447ea15990331a4fb58257e1af4c7
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\e3\e3a447ea15990331a4fb58257e1af4c7
-    projectPath: Library\Artifacts\e3\e3a447ea15990331a4fb58257e1af4c7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f0\f0b7fa1d6df1ff09d3d206a03fbe0992
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\f0\f0b7fa1d6df1ff09d3d206a03fbe0992
-    projectPath: Library\Artifacts\f0\f0b7fa1d6df1ff09d3d206a03fbe0992
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\fc\fc068fc0533e15fccf54d4f7408ce61d
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\fc\fc068fc0533e15fccf54d4f7408ce61d
-    projectPath: Library\Artifacts\fc\fc068fc0533e15fccf54d4f7408ce61d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ff\ffe6e4ccdf327bac9980d57d04b22c0b
-    fullPath: D:\UnityProjects\MyHouse\Library\Artifacts\ff\ffe6e4ccdf327bac9980d57d04b22c0b
-    projectPath: Library\Artifacts\ff\ffe6e4ccdf327bac9980d57d04b22c0b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library\CurrentLayout-default.dwlt
     fullPath: D:\UnityProjects\MyHouse\Library\CurrentLayout-default.dwlt
     projectPath: Library\CurrentLayout-default.dwlt
@@ -508,420 +238,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: D:\UnityProjects\MyHouse\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    fullPath: D:\UnityProjects\MyHouse\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: D:\UnityProjects\MyHouse\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    fullPath: D:\UnityProjects\MyHouse\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: D:\UnityProjects\MyHouse\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    fullPath: D:\UnityProjects\MyHouse\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: D:\UnityProjects\MyHouse\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: D:\UnityProjects\MyHouse\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    fullPath: D:\UnityProjects\MyHouse\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    fullPath: D:\UnityProjects\MyHouse\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: D:\UnityProjects\MyHouse\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: D:\UnityProjects\MyHouse\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    fullPath: D:\UnityProjects\MyHouse\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
-    fullPath: D:\UnityProjects\MyHouse\Library\ScriptAssemblies\Unity.Timeline.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: D:\UnityProjects\MyHouse\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    fullPath: D:\UnityProjects\MyHouse\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: D:\UnityProjects\MyHouse\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    fullPath: D:\UnityProjects\MyHouse\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: D:\UnityProjects\MyHouse\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: D:\UnityProjects\MyHouse\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    fullPath: D:\UnityProjects\MyHouse\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: D:\UnityProjects\MyHouse\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ShaderCache\0\00a2b2f4f92c03530f6c0e4486caab08.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\0\00a2b2f4f92c03530f6c0e4486caab08.bin
-    projectPath: Library\ShaderCache\0\00a2b2f4f92c03530f6c0e4486caab08.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\0\01ac663dffa0e92cfb9c4c8930bbf5fc.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\0\01ac663dffa0e92cfb9c4c8930bbf5fc.bin
-    projectPath: Library\ShaderCache\0\01ac663dffa0e92cfb9c4c8930bbf5fc.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\0\03cc38c341f98dd130a0c97b688c239c.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\0\03cc38c341f98dd130a0c97b688c239c.bin
-    projectPath: Library\ShaderCache\0\03cc38c341f98dd130a0c97b688c239c.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\0\05c890785b17963fe5af781fefc784c4.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\0\05c890785b17963fe5af781fefc784c4.bin
-    projectPath: Library\ShaderCache\0\05c890785b17963fe5af781fefc784c4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\1\10aafe7e9a97a1a01ce64257401d09aa.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\1\10aafe7e9a97a1a01ce64257401d09aa.bin
-    projectPath: Library\ShaderCache\1\10aafe7e9a97a1a01ce64257401d09aa.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\1\1cbedc6009e4f4349376c8e403c33dac.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\1\1cbedc6009e4f4349376c8e403c33dac.bin
-    projectPath: Library\ShaderCache\1\1cbedc6009e4f4349376c8e403c33dac.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\1\1d1d281d3283e1a22017b4449731610b.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\1\1d1d281d3283e1a22017b4449731610b.bin
-    projectPath: Library\ShaderCache\1\1d1d281d3283e1a22017b4449731610b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\2\299cbb21ac4977a949760d6313044e53.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\2\299cbb21ac4977a949760d6313044e53.bin
-    projectPath: Library\ShaderCache\2\299cbb21ac4977a949760d6313044e53.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\2\29ac11d3844af7a8d14b14d86287b82d.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\2\29ac11d3844af7a8d14b14d86287b82d.bin
-    projectPath: Library\ShaderCache\2\29ac11d3844af7a8d14b14d86287b82d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\4\4adf193a20ea893ed44eccf5d58a0883.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\4\4adf193a20ea893ed44eccf5d58a0883.bin
-    projectPath: Library\ShaderCache\4\4adf193a20ea893ed44eccf5d58a0883.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\4\4b3c52fa290755913275263ce82747d1.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\4\4b3c52fa290755913275263ce82747d1.bin
-    projectPath: Library\ShaderCache\4\4b3c52fa290755913275263ce82747d1.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\4\4de449a10f4002d28a3bc113e74237d4.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\4\4de449a10f4002d28a3bc113e74237d4.bin
-    projectPath: Library\ShaderCache\4\4de449a10f4002d28a3bc113e74237d4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\5\58560fc674aefd3ad26fe3367e83808a.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\5\58560fc674aefd3ad26fe3367e83808a.bin
-    projectPath: Library\ShaderCache\5\58560fc674aefd3ad26fe3367e83808a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\5\5b58a9155804b4f327523fdb6bd2dce5.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\5\5b58a9155804b4f327523fdb6bd2dce5.bin
-    projectPath: Library\ShaderCache\5\5b58a9155804b4f327523fdb6bd2dce5.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\5\5cd6eb14d94923686380bdd9acd2bdf8.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\5\5cd6eb14d94923686380bdd9acd2bdf8.bin
-    projectPath: Library\ShaderCache\5\5cd6eb14d94923686380bdd9acd2bdf8.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\6\63911119275d1ce0e3094f0434780710.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\6\63911119275d1ce0e3094f0434780710.bin
-    projectPath: Library\ShaderCache\6\63911119275d1ce0e3094f0434780710.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\7\708dd0d57cfec35e1f981233bed70b12.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\7\708dd0d57cfec35e1f981233bed70b12.bin
-    projectPath: Library\ShaderCache\7\708dd0d57cfec35e1f981233bed70b12.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\7\71b13b0d85eaafe2ee91fc7e78c11535.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\7\71b13b0d85eaafe2ee91fc7e78c11535.bin
-    projectPath: Library\ShaderCache\7\71b13b0d85eaafe2ee91fc7e78c11535.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\7\72bdac996d2cfc9286b7697e291a4908.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\7\72bdac996d2cfc9286b7697e291a4908.bin
-    projectPath: Library\ShaderCache\7\72bdac996d2cfc9286b7697e291a4908.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\7\7579674f01ccbd9bf218b990a6b00495.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\7\7579674f01ccbd9bf218b990a6b00495.bin
-    projectPath: Library\ShaderCache\7\7579674f01ccbd9bf218b990a6b00495.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\8\842c4bd05433d91360b1f7c51cfb5a90.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\8\842c4bd05433d91360b1f7c51cfb5a90.bin
-    projectPath: Library\ShaderCache\8\842c4bd05433d91360b1f7c51cfb5a90.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\8\8579eaff5aadb79910b956c7efd84c33.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\8\8579eaff5aadb79910b956c7efd84c33.bin
-    projectPath: Library\ShaderCache\8\8579eaff5aadb79910b956c7efd84c33.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\8\8a156d9b98b07f51aefcbb7d99bcdb5b.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\8\8a156d9b98b07f51aefcbb7d99bcdb5b.bin
-    projectPath: Library\ShaderCache\8\8a156d9b98b07f51aefcbb7d99bcdb5b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\9\98465d9fbf0aca0b6088922b464c646b.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\9\98465d9fbf0aca0b6088922b464c646b.bin
-    projectPath: Library\ShaderCache\9\98465d9fbf0aca0b6088922b464c646b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\9\9c7ba1c23f4eba548482cc9d12236987.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\9\9c7ba1c23f4eba548482cc9d12236987.bin
-    projectPath: Library\ShaderCache\9\9c7ba1c23f4eba548482cc9d12236987.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\a\aac3127c61aa035e85ea68916bc616b8.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\a\aac3127c61aa035e85ea68916bc616b8.bin
-    projectPath: Library\ShaderCache\a\aac3127c61aa035e85ea68916bc616b8.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\b\b4bd2d2a2bf4fc9962eb7aad5f07f806.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\b\b4bd2d2a2bf4fc9962eb7aad5f07f806.bin
-    projectPath: Library\ShaderCache\b\b4bd2d2a2bf4fc9962eb7aad5f07f806.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\b\bbf2b9ad34f28341668f708068cb3e99.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\b\bbf2b9ad34f28341668f708068cb3e99.bin
-    projectPath: Library\ShaderCache\b\bbf2b9ad34f28341668f708068cb3e99.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\b\be7b1459043215527ac30ab942e530c0.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\b\be7b1459043215527ac30ab942e530c0.bin
-    projectPath: Library\ShaderCache\b\be7b1459043215527ac30ab942e530c0.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\c\c10b067c4b5cd5928eae5955e6fca6a0.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\c\c10b067c4b5cd5928eae5955e6fca6a0.bin
-    projectPath: Library\ShaderCache\c\c10b067c4b5cd5928eae5955e6fca6a0.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\c\ccb0fc59d6306a8c0a892b9464c504f9.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\c\ccb0fc59d6306a8c0a892b9464c504f9.bin
-    projectPath: Library\ShaderCache\c\ccb0fc59d6306a8c0a892b9464c504f9.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\c\cfe85f8ff45a3ed6807eae5736264af1.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\c\cfe85f8ff45a3ed6807eae5736264af1.bin
-    projectPath: Library\ShaderCache\c\cfe85f8ff45a3ed6807eae5736264af1.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\d\d2e7881d7911de61087717f75215e948.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\d\d2e7881d7911de61087717f75215e948.bin
-    projectPath: Library\ShaderCache\d\d2e7881d7911de61087717f75215e948.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\e\ea0e2829c763acd7bc0375b0fb402a6e.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\e\ea0e2829c763acd7bc0375b0fb402a6e.bin
-    projectPath: Library\ShaderCache\e\ea0e2829c763acd7bc0375b0fb402a6e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ShaderCache\f\f285b1f4877da4c16c5b34bb54119251.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\f\f285b1f4877da4c16c5b34bb54119251.bin
-    projectPath: Library\ShaderCache\f\f285b1f4877da4c16c5b34bb54119251.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\f\f644645eab08fadbbc5ea8e9d9af33b7.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\f\f644645eab08fadbbc5ea8e9d9af33b7.bin
-    projectPath: Library\ShaderCache\f\f644645eab08fadbbc5ea8e9d9af33b7.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\f\facf57590dc8c341c07c9381fc333263.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\f\facf57590dc8c341c07c9381fc333263.bin
-    projectPath: Library\ShaderCache\f\facf57590dc8c341c07c9381fc333263.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\f\fb1af1358da670f7ca0aa244ffccf23d.bin
-    fullPath: D:\UnityProjects\MyHouse\Library\ShaderCache\f\fb1af1358da670f7ca0aa244ffccf23d.bin
-    projectPath: Library\ShaderCache\f\fb1af1358da670f7ca0aa244ffccf23d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: D:\UnityProjects\MyHouse\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: D:\UnityProjects\MyHouse\Library\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: D:\UnityProjects\MyHouse\Library\shadercompiler-UnityShaderCompiler.exe2.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: D:\UnityProjects\MyHouse\Library\shadercompiler-UnityShaderCompiler.exe3.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\SourceAssetDB
     fullPath: D:\UnityProjects\MyHouse\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\Hierarchy\dfd221-a16eae0af83edd24a9.json
-    fullPath: D:\UnityProjects\MyHouse\Library\StateCache\Hierarchy\dfd221-a16eae0af83edd24a9.json
-    projectPath: Library\StateCache\Hierarchy\dfd221-a16eae0af83edd24a9.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\StateCache\Hierarchy\dfd221-mainStage.json
     fullPath: D:\UnityProjects\MyHouse\Library\StateCache\Hierarchy\dfd221-mainStage.json
     projectPath: Library\StateCache\Hierarchy\dfd221-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\SceneView\682089-a16eae0af83edd24a9.json
-    fullPath: D:\UnityProjects\MyHouse\Library\StateCache\SceneView\682089-a16eae0af83edd24a9.json
-    projectPath: Library\StateCache\SceneView\682089-a16eae0af83edd24a9.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\StateCache\SceneView\682089-mainStage.json
     fullPath: D:\UnityProjects\MyHouse\Library\StateCache\SceneView\682089-mainStage.json
     projectPath: Library\StateCache\SceneView\682089-mainStage.json
@@ -934,393 +262,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    fullPath: D:\UnityProjects\MyHouse\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    fullPath: D:\UnityProjects\MyHouse\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\TagManager.asset
-    fullPath: D:\UnityProjects\MyHouse\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Temp\__Backupscenes\0.backup
     fullPath: D:\UnityProjects\MyHouse\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-1594118af5c02674f8b276abd8d497f4
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-1594118af5c02674f8b276abd8d497f4
-    projectPath: Temp\UnityTempFile-1594118af5c02674f8b276abd8d497f4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-1979143698833874d985d0d7b10c5325
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-1979143698833874d985d0d7b10c5325
-    projectPath: Temp\UnityTempFile-1979143698833874d985d0d7b10c5325
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-1f0226df7d4b31b4da87f12eb54fd703
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-1f0226df7d4b31b4da87f12eb54fd703
-    projectPath: Temp\UnityTempFile-1f0226df7d4b31b4da87f12eb54fd703
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-25673068b3b1f6b4bb081f5ccfeaf9f3
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-25673068b3b1f6b4bb081f5ccfeaf9f3
-    projectPath: Temp\UnityTempFile-25673068b3b1f6b4bb081f5ccfeaf9f3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-2c948ad06a08bb346be64d9152153215
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-2c948ad06a08bb346be64d9152153215
-    projectPath: Temp\UnityTempFile-2c948ad06a08bb346be64d9152153215
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-2ed6a3205aff3ee448e0827ebde44e79
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-2ed6a3205aff3ee448e0827ebde44e79
-    projectPath: Temp\UnityTempFile-2ed6a3205aff3ee448e0827ebde44e79
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-353ae93fee9b1f649ad37338d990842a
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-353ae93fee9b1f649ad37338d990842a
-    projectPath: Temp\UnityTempFile-353ae93fee9b1f649ad37338d990842a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-36b4507c7d08bd14c9c0bf6c8f4cd802
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-36b4507c7d08bd14c9c0bf6c8f4cd802
-    projectPath: Temp\UnityTempFile-36b4507c7d08bd14c9c0bf6c8f4cd802
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-40cc5f32876315842b7011cf147ac261
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-40cc5f32876315842b7011cf147ac261
-    projectPath: Temp\UnityTempFile-40cc5f32876315842b7011cf147ac261
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-4334c9eca443a2c4bba7beb4f65afc1b
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-4334c9eca443a2c4bba7beb4f65afc1b
-    projectPath: Temp\UnityTempFile-4334c9eca443a2c4bba7beb4f65afc1b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-48c3017fd7a2cfd4d909a444e58fad21
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-48c3017fd7a2cfd4d909a444e58fad21
-    projectPath: Temp\UnityTempFile-48c3017fd7a2cfd4d909a444e58fad21
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-49863303a1d22fc4d92c03fa101b93ff
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-49863303a1d22fc4d92c03fa101b93ff
-    projectPath: Temp\UnityTempFile-49863303a1d22fc4d92c03fa101b93ff
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-498d2755f6e0cc5439f263c372d7dd4f
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-498d2755f6e0cc5439f263c372d7dd4f
-    projectPath: Temp\UnityTempFile-498d2755f6e0cc5439f263c372d7dd4f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-49b7752a2e3394a4bbc37e6f0868d3cd
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-49b7752a2e3394a4bbc37e6f0868d3cd
-    projectPath: Temp\UnityTempFile-49b7752a2e3394a4bbc37e6f0868d3cd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-4cf69298a3dd58f4782a75d4eb6fd576
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-4cf69298a3dd58f4782a75d4eb6fd576
-    projectPath: Temp\UnityTempFile-4cf69298a3dd58f4782a75d4eb6fd576
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-4edfe13237010d64087945ed0f97dd5b
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-4edfe13237010d64087945ed0f97dd5b
-    projectPath: Temp\UnityTempFile-4edfe13237010d64087945ed0f97dd5b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-4fc6d57e19946ef4c9a0b138b4ef6db4
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-4fc6d57e19946ef4c9a0b138b4ef6db4
-    projectPath: Temp\UnityTempFile-4fc6d57e19946ef4c9a0b138b4ef6db4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-54211d13dfa5da54d865514ca998a433
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-54211d13dfa5da54d865514ca998a433
-    projectPath: Temp\UnityTempFile-54211d13dfa5da54d865514ca998a433
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-5cc6ec928849d4942a1fe2d0588e1dc6
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-5cc6ec928849d4942a1fe2d0588e1dc6
-    projectPath: Temp\UnityTempFile-5cc6ec928849d4942a1fe2d0588e1dc6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-61c786a91abfc6543932b7e7df0d3cc6
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-61c786a91abfc6543932b7e7df0d3cc6
-    projectPath: Temp\UnityTempFile-61c786a91abfc6543932b7e7df0d3cc6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-67c5d99bd5504a24cb76955c5be1086e
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-67c5d99bd5504a24cb76955c5be1086e
-    projectPath: Temp\UnityTempFile-67c5d99bd5504a24cb76955c5be1086e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-70c211d2379ff654aa24efd6ad2ba987
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-70c211d2379ff654aa24efd6ad2ba987
-    projectPath: Temp\UnityTempFile-70c211d2379ff654aa24efd6ad2ba987
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-74cc7c9b6c184c1459b19f51027a1607
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-74cc7c9b6c184c1459b19f51027a1607
-    projectPath: Temp\UnityTempFile-74cc7c9b6c184c1459b19f51027a1607
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-767cf7101f08bf6499a1b6edc240e35b
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-767cf7101f08bf6499a1b6edc240e35b
-    projectPath: Temp\UnityTempFile-767cf7101f08bf6499a1b6edc240e35b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-7d5cfea27996de64a92cecc108ff0d87
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-7d5cfea27996de64a92cecc108ff0d87
-    projectPath: Temp\UnityTempFile-7d5cfea27996de64a92cecc108ff0d87
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-84ef0db10bb49294e855ba0c73aa73ae
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-84ef0db10bb49294e855ba0c73aa73ae
-    projectPath: Temp\UnityTempFile-84ef0db10bb49294e855ba0c73aa73ae
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-8ac3556bc6981e7449539772f9d3341f
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-8ac3556bc6981e7449539772f9d3341f
-    projectPath: Temp\UnityTempFile-8ac3556bc6981e7449539772f9d3341f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-91f06cb36dc060c4d9574ee92bc112e5
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-91f06cb36dc060c4d9574ee92bc112e5
-    projectPath: Temp\UnityTempFile-91f06cb36dc060c4d9574ee92bc112e5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-967ea4c10091f4e4db9ef85587616dec
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-967ea4c10091f4e4db9ef85587616dec
-    projectPath: Temp\UnityTempFile-967ea4c10091f4e4db9ef85587616dec
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-98f8993450bb4bd4582fd65d7c851d5d
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-98f8993450bb4bd4582fd65d7c851d5d
-    projectPath: Temp\UnityTempFile-98f8993450bb4bd4582fd65d7c851d5d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-9ad717599e146a94aa9a4b22a04b893a
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-9ad717599e146a94aa9a4b22a04b893a
-    projectPath: Temp\UnityTempFile-9ad717599e146a94aa9a4b22a04b893a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-9fcf4d92a6d69094b9c8343e91b94f74
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-9fcf4d92a6d69094b9c8343e91b94f74
-    projectPath: Temp\UnityTempFile-9fcf4d92a6d69094b9c8343e91b94f74
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-a185887ad31a214428040f206ef3f2d2
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-a185887ad31a214428040f206ef3f2d2
-    projectPath: Temp\UnityTempFile-a185887ad31a214428040f206ef3f2d2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-a4b6118bfdd428a4da62ee4c5c31b068
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-a4b6118bfdd428a4da62ee4c5c31b068
-    projectPath: Temp\UnityTempFile-a4b6118bfdd428a4da62ee4c5c31b068
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-a726764eed25d5d4f8b0460b30049cb5
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-a726764eed25d5d4f8b0460b30049cb5
-    projectPath: Temp\UnityTempFile-a726764eed25d5d4f8b0460b30049cb5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-a760b20f65e380e4496bd5d8ca6a20bb
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-a760b20f65e380e4496bd5d8ca6a20bb
-    projectPath: Temp\UnityTempFile-a760b20f65e380e4496bd5d8ca6a20bb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-a7c38d66954257b4d8587570a2d55742
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-a7c38d66954257b4d8587570a2d55742
-    projectPath: Temp\UnityTempFile-a7c38d66954257b4d8587570a2d55742
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-a903c68a573383b4f81126e45fb291b3
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-a903c68a573383b4f81126e45fb291b3
-    projectPath: Temp\UnityTempFile-a903c68a573383b4f81126e45fb291b3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-aa4f229386ea75c47a7efd8e4fdea03c
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-aa4f229386ea75c47a7efd8e4fdea03c
-    projectPath: Temp\UnityTempFile-aa4f229386ea75c47a7efd8e4fdea03c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-aba857acec9431d4080cd8d76529214f
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-aba857acec9431d4080cd8d76529214f
-    projectPath: Temp\UnityTempFile-aba857acec9431d4080cd8d76529214f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-ad45cd3a8aa2a5843876ce49766defed
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-ad45cd3a8aa2a5843876ce49766defed
-    projectPath: Temp\UnityTempFile-ad45cd3a8aa2a5843876ce49766defed
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b8917a4cfefc003408b5fb11e8ac087d
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-b8917a4cfefc003408b5fb11e8ac087d
-    projectPath: Temp\UnityTempFile-b8917a4cfefc003408b5fb11e8ac087d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-ba2830adfd451a349a800378f46b4ca5
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-ba2830adfd451a349a800378f46b4ca5
-    projectPath: Temp\UnityTempFile-ba2830adfd451a349a800378f46b4ca5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-bcbfbc5efef65414aaeb17fc978bfdc1
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-bcbfbc5efef65414aaeb17fc978bfdc1
-    projectPath: Temp\UnityTempFile-bcbfbc5efef65414aaeb17fc978bfdc1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-bf3b300754648bc459906e3e4e385ed6
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-bf3b300754648bc459906e3e4e385ed6
-    projectPath: Temp\UnityTempFile-bf3b300754648bc459906e3e4e385ed6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-c34716b60537e364c9d882ac69f7bc46
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-c34716b60537e364c9d882ac69f7bc46
-    projectPath: Temp\UnityTempFile-c34716b60537e364c9d882ac69f7bc46
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-dcb54d89693f39e418ac1af6cddd85b0
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-dcb54d89693f39e418ac1af6cddd85b0
-    projectPath: Temp\UnityTempFile-dcb54d89693f39e418ac1af6cddd85b0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-dcd5a1afaac8e814f902dd32bbf6d47b
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-dcd5a1afaac8e814f902dd32bbf6d47b
-    projectPath: Temp\UnityTempFile-dcd5a1afaac8e814f902dd32bbf6d47b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e1b894166de0a35439617a43b6c1136e
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-e1b894166de0a35439617a43b6c1136e
-    projectPath: Temp\UnityTempFile-e1b894166de0a35439617a43b6c1136e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e62a0a227ea7a024ca450c637a3a6422
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-e62a0a227ea7a024ca450c637a3a6422
-    projectPath: Temp\UnityTempFile-e62a0a227ea7a024ca450c637a3a6422
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e7e4a609bb5ea5f4aac8354b05fcb80d
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-e7e4a609bb5ea5f4aac8354b05fcb80d
-    projectPath: Temp\UnityTempFile-e7e4a609bb5ea5f4aac8354b05fcb80d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-eeb2f5b73ec9aa54c860013770c41997
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-eeb2f5b73ec9aa54c860013770c41997
-    projectPath: Temp\UnityTempFile-eeb2f5b73ec9aa54c860013770c41997
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-efb9c9927e007d047be5d7932707d0c6
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-efb9c9927e007d047be5d7932707d0c6
-    projectPath: Temp\UnityTempFile-efb9c9927e007d047be5d7932707d0c6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-efe8327d9861fb248900b304b64e601c
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-efe8327d9861fb248900b304b64e601c
-    projectPath: Temp\UnityTempFile-efe8327d9861fb248900b304b64e601c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f1f8be01431f9634591c455fbfecde8c
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-f1f8be01431f9634591c455fbfecde8c
-    projectPath: Temp\UnityTempFile-f1f8be01431f9634591c455fbfecde8c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f30218db03ef1514ea5e99cff5fb0819
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-f30218db03ef1514ea5e99cff5fb0819
-    projectPath: Temp\UnityTempFile-f30218db03ef1514ea5e99cff5fb0819
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f868ed173ae34464d86b6bc255607079
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-f868ed173ae34464d86b6bc255607079
-    projectPath: Temp\UnityTempFile-f868ed173ae34464d86b6bc255607079
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f86b98c86ac75e84b85726016e1ade9f
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-f86b98c86ac75e84b85726016e1ade9f
-    projectPath: Temp\UnityTempFile-f86b98c86ac75e84b85726016e1ade9f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-fa09f68e175739e44928249c8a1780b0
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-fa09f68e175739e44928249c8a1780b0
-    projectPath: Temp\UnityTempFile-fa09f68e175739e44928249c8a1780b0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-fdec4c795e134d4439c5752ca4fa1739
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-fdec4c795e134d4439c5752ca4fa1739
-    projectPath: Temp\UnityTempFile-fdec4c795e134d4439c5752ca4fa1739
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-febf79be36421dd4ea235d8c9570d406
-    fullPath: D:\UnityProjects\MyHouse\Temp\UnityTempFile-febf79be36421dd4ea235d8c9570d406
-    projectPath: Temp\UnityTempFile-febf79be36421dd4ea235d8c9570d406
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
